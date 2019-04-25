@@ -1,0 +1,346 @@
+<response>
+good film
+ prediction error
+</response>
+<response>
+bad film
+ prediction error
+</response>
+<response>
+bad film
+ prediction error
+</response>
+<response>
+bad film, actors are awful
+ prediction error
+</response>
+<response>
+bad film, actors are awful, picture is garbage
+ prediction error
+</response>
+<response>
+great movie
+ prediction error
+</response>
+<response>
+great movie
+ prediction error
+</response>
+<response>
+great movie
+ prediction error
+</response>
+<response>
+great movie
+ prediction error
+</response>
+<response>
+lol
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+movie is bad bad actors awful
+ prediction error
+</response>
+<response>
+lol
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+ prediction error
+</response>
+<response>
+bad movie
+<response>
+bad movie, not great
+<response>
+bad awful movie, hated it
+(0.5593191813002343, '0')
+</response>
+<response>
+great movie
+(0.9516352377817384, '1')
+</response>
+<response>
+great movie
+(0.9516352377817384, '1')
+</response>
+<response>
+great movie
+(0.9516352377817384, '1')
+</response>
+<response>
+great movie
+<response>
+bad movie
+neutral or uncertain
+</response>
+<response>
+bad movie
+neutral or uncertain positive
+</response>
+<response>
+bad movie
+neutral or uncertain positive
+</response>
+<response>
+great movie
+certain positive
+</response>
+<response>
+i really liked that movie because of the christian bale
+ positive
+</response>
+<response>
+i really liked that movie because of the christian bale
+ positive
+</response>
+<response>
+i really liked that movie because 
+ positive
+</response>
+<response>
+i hated that movie
+probably positive
+</response>
+<response>
+i really liked that movie
+ positive
+</response>
+<response>
+great movie
+certain positive
+</response>
+<response>
+great movie
+certain positive
+</response>
+<response>
+great movie
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+great
+certain positive
+</response>
+<response>
+Well damn Cuaron, you did it again. Roma is not only a movie, it is an art exposition. Every shot, every moment is so well handled and filmed that a lot of the times I was thinking more about the how they did it than what was happening in the screen. Thankfully, I had a masterpiece of storytelling, with great performances and a humanity that is often missing in movies, to the point that I really felt I was a watching a real place in real time, with every person on screen (even the Extras) having a story, and at many times, stories that I wanted to see. I can't recommend enough, and it is my best movie of 2018 without a doubt.
+probably negative
+</response>
+<response>
+Well damn Cuaron, you did it again. Roma is not only a movie, it is an art exposition. Every shot, every moment is so well handled and filmed that a lot of the times I was thinking more about the how they did it than what was happening in the screen. Thankfully, I had a masterpiece of storytelling, with great performances and a humanity that is often missing in movies, to the point that I really felt I was a watching a real place in real time, with every person on screen (even the Extras) having a story, and at many times, stories that I wanted to see. I can't recommend enough, and it is my best movie of 2018 without a doubt.
+probably negative
+</response>
+<response>
+Well damn Cuaron, you did it again. Roma is not only a movie, it is an art exposition. Every shot, every moment is so well handled and filmed that a lot of the times I was thinking more about the how they did it than what was happening in the screen. Thankfully, I had a masterpiece of storytelling, with great performances and a humanity that is often missing in movies, to the point that I really felt I was a watching a real place in real time, with every person on screen (even the Extras) having a story, and at many times, stories that I wanted to see. I can't recommend enough, and it is my best movie of 2018 without a doubt.
+probably negative
+</response>
+<response>
+Just can't explain how much I liked this movie. MUST see if you're into good camera handling and good shots. Quite slow movie but that makes you enjoy it more. 10/10 for me, absolutely.
+ positive
+</response>
+<response>
+The best film I've seen this year, last year, probably the year before that, and probably next year too. The kind of masterpiece most auteur filmmakers have seemingly forgot how to make these days. Incredibly powerful and dramatic. Nostalgic without being overly sentimental. Just as stunning on a technical level as Gravity was, without being nearly as showy. Simply flawless.
+ positive
+</response>
+<response>
+The best film I've seen this year, last year, probably the year before that, and probably next year too. The kind of masterpiece most auteur filmmakers have seemingly forgot how to make these days. Incredibly powerful and dramatic. Nostalgic without being overly sentimental. Just as stunning on a technical level as Gravity was, without being nearly as showy. Simply flawless.
+ positive
+</response>
+<response>
+The best film I've seen this year, last year, probably the year before that, and probably next year too. The kind of masterpiece most auteur filmmakers have seemingly forgot how to make these days. Incredibly powerful and dramatic. Nostalgic without being overly sentimental. Just as stunning on a technical level as Gravity was, without being nearly as showy. Simply flawless.
+ positive
+</response>
+<response>
+It is good for 80% of the movie then it turns into an "art film" that loses its way. See it on cable or TV so you can fast forward, ending the audience's pain as the director lost their way in the editing process and obviously changed their mind about the ending. That is why the reviews are so mixed. Only the most elitist critics are giving it high marks.
+probably positive
+</response>
+<response>
+This movie is bizarro and will most likely become a cult favorite.The acting is great from everyone and does deserve awards. What is truly horrible about this film is the constant , disturbing, if you want to call it music, sound in both the first half of the film and also again near the end. What the hell was that noise? Not only myself, but other movie patrons were complaining. Honestly, whoever decided this and why this sick sound was in the film is proof that many people are covering their ears and are missing the dialogue. Whose idea was it to add this noise and what were they smoking? Yes, the ending is strange and leaves you wondering but with a stupid grin on your face for knowing that this film will have you talking about it for a long time. Too bad that I can't give this film 10 stars due to that horrible sound.
+probably negative
+</response>
+<response>
+This movie is bizarro and will most likely become a cult favorite.The acting is great from everyone and does deserve awards. What is truly horrible about this film is the constant , disturbing, if you want to call it music, sound in both the first half of the film and also again near the end. What the hell was that noise? Not only myself, but other movie patrons were complaining. Honestly, whoever decided this and why this sick sound was in the film is proof that many people are covering their ears and are missing the dialogue. Whose idea was it to add this noise and what were they smoking? Yes, the ending is strange and leaves you wondering but with a stupid grin on your face for knowing that this film will have you talking about it for a long time. Too bad that I can't give this film 10 stars due to that horrible sound.
+probably negative
+</response>
+<response>
+It is a parabel about our time:
+Queen Anne represents spoiled rudderless Europe. Abigail is Germany: financial and moral bankrupt after 2 wars but still managed to take over the power in present day Europe. At the expense of the exiled Sarah who is Greece,(like the director of this movie). Greece, once the cradle of European culture, but now bankrupt and on the leash by Germany... Lanthimos has put a big Greek stamp on this British story.
+I didn't like the very wide observation camera angles, but they referred to this age.
+No Oscar material movie but the acting makes it worth 
+probably positive
+</response>
+<response>
+Easily one of the best films of 2018. The three leads are incredibly good, with Rachel Weisz leading the way. I've always loved Olivia Colman, and she's fantastic as the insecure, gluttonous Queen Anne. Emma Stone is really good, but the movie takes a bit of a turn (along with her performance) about 2/3 of the way through. I have to mention the director and the DP - the film is shot absolutely beautifully, and the score is innovative / perfectly pitched. A word of caution: if you're easily offended, you might want to steer clear. It's not a movie of its time. But it is uproariously funny at times - great writing.
+ positive
+</response>
+<response>
+It is good for 80% of the movie then it turns into an "art film" that loses its way. See it on cable or TV so you can fast forward, ending the audience's pain as the director lost their way in the editing process and obviously changed their mind about the ending. That is why the reviews are so mixed. Only the most elitist critics are giving it high marks.
+probably positive
+</response>
+<response>
+What the hell is all the fuss about?? A lot of money was wasted in making this film. Very nice costumes. Good performances (I think), but I really couldn't hear all the dialogue. With the bells, the music etc. constantly in the backround, very difficult fully understanding what was being said. The director seems to want to impress. All in all, an artsy fartsy film. In any case, didn't think it was funny.
+ positive
+</response>
+<response>
+One of the worst movies I’ve ever seen and it’s rare that I dislike a film so much but watching it was torture. I think the positive reviews on here must be fake.
+probably positive
+</response>
+<response>
+Some viewers will enjoy the dark comedy aspect of this movie. It didn't hit my funny bone, and if it doesn't hit yours, you will probably hate the experience. My one-word description of this movie is unpleasant. The characters are mean, the music is grating, the dialogue is crude, the sexual content is intentionally distasteful, and the story isn't interesting enough.
+probably negative
+</response>
+<response>
+The humor is lost on me. The dark and nastiness stands out. Acting good - costumes good - sets and locations good. I'd still say miss this one! Spend your movie dollars on something else.
+ positive
+</response>
+<response>
+I am definitely going to remember this director's name after seeing this movie and The Killing of a Sacred Deer. The best part of this movie was when it finally ended. The cinematography is dark and dreary like the movie. The characters are extremely well acted and very disturbing.
+ positive
+</response>
+<response>
+I am definitely going to remember this director's name after seeing this movie and The Killing of a Sacred Deer. The best part of this movie was when it finally ended. The cinematography is dark and dreary like the movie. The characters are extremely well acted and very disturbing.
+ positive
+</response>
+<response>
+Terrible movie-not a comedy or a tragedy; poor camera work; the 2 actresses were ok-good talent in terrible roles. Poor editing. Often very dull film.
+probably positive
+</response>
+<response>
+A waste of excellent performances by Colman, Weisz and Stone. Gratuitous, irrelevant scenes fail to add period flavor and detract from the already thin story line. What a disappointment.
+probably positive
+</response>
+<response>
+What the hell is all the fuss about?? A lot of money was wasted in making this film. Very nice costumes. Good performances (I think), but I really couldn't hear all the dialogue. With the bells, the music etc. constantly in the backround, very difficult fully understanding what was being said. The director seems to want to impress. All in all, an artsy fartsy film. In any case, didn't think it was funny. 
+ positive
+</response>
+<response>
+The worst movie I have ever seen. Two hours of time wasted. No plot. Gives a view on the judgement of the three main actresses who thought this movie might enhance their careers. No interest in seeing any of them again.
+neutral or uncertain negative
+</response>
+<response>
+It was okay-bit overrated and extremely weird! Best part of the film was Rachel Weisz's performance (who's in it the most!). She should definitely be considered over Colman (who overplays Queen Anne) The cinematography is odd. Also had to question some of the films 'inaccuracies.' Critics have in the past, made issues with other films being historically inaccurate, well it's definitely a problem in ''The Favourite.''
+neutral or uncertain negative
+</response>
+<response>
+It was okay-bit overrated and extremely weird! Best part of the film was Rachel Weisz's performance (who's in it the most!). She should definitely be considered over Colman (who overplays Queen Anne) The cinematography is odd. Also had to question some of the films 'inaccuracies.' Critics have in the past, made issues with other films being historically inaccurate, well it's definitely a problem in ''The Favourite.''
+neutral or uncertain negative
+</response>
+<response>
+One of the worst movies I’ve ever seen and it’s rare that I dislike a film so much but watching it was torture. I think the positive reviews on here must be fake.
+probably positive
+</response>
+<response>
+Great performances from all three lead actresses, and a pleasingly-written screenplay exploring themes such as jealousy and greed, "The Favourite" makes use of some great camera work from Yorgos Lanthimos, and masterful acting particularly from Olivia Colman. It all builds up and comes to a sad-but-true conclusion. Very good movie.
+certain positive
+</response>
+<response>
+Gorgeous photography, set design, and interesting sound can't lift this from the expected perils of a stuffy period piece. Nor can raunchy content and contemporary dirty dialogue regardless of themes paralleling today's politics and feminist fads, no matter how good the acting. 
+ positive
+</response>
+<response>
+The actresses are good and the spectacle is sometimes interesting to watch, but the storytelling is incoherent, the cinematography annoying, the attempts at humor jarring, a painful soundtrack, and the characters unsympathetic. Overall it's a period-costume dumpster fire. I see a lot of critics are loving it, which sometimes happens when confusing films are mistaken for "deep". This is a horrible film.
+neutral or uncertain negative
+</response>
+<response>
+Film critics have made Yorgos Lanthimos out to be some sort of unique directorial talent and his "works" - "The Lobster","The Killing of a Sacred Deer" and now "The Favourite"- have made him the darling of the festival crowd and the movie critics. One can but applaud him for being able to entice finance from the supposed "hard-nosed" money men of Tinseltown and make films that are only comprehensible to a very select few. How to approach his latest, "The Favourite"? Some compare it to Kubrick's "Barry Lyndon", when in reality there are more than a few nods to the outlandish Ken Russell. Is it a drama? Is it a comedy? Is it a comedy drama or a drama comedy? Who can tell? Hopefully the locations and the costume providers have got Yorgos on their Christmas card list. As for the actresses whose talents have been largely wasted,let's hope their careers can survive their participation here. There were moments when all three were on screen at the same time and the power struggles all three endured would have made a more memorable film. Unfortunately the music of the film's composer would then raise its ugly head or the "fish -eye" lens of the cameraman would interfere and kill any drama stone-dead.
+Hopefully "word-of-mouth" will kill this film off and at some point there will be a reality check amongst the critics who will finally realise that Yorgos has subjected them to an "Emperor's New Clothes" scenario yet again and they have been had not once, not twice but three times now.
+ negative
+</response>
